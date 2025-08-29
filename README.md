@@ -68,6 +68,7 @@ Requirement Analysis is a critical phase in the software development lifecycle (
     - Help in identifying and organizing system requirements.
     - Facilitate communication among stakeholders and the development team.
 <img width="625" height="417" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/8f563641-7b1f-4434-a1d8-f8e3a54e3804" />
+
 ## Acceptance Criteria ✅
 **Objective:** Establishing clear criteria for feature completion.
 
